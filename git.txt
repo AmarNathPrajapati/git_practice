@@ -1,0 +1,8 @@
+// set the username
+git config --global user.name "amarnath"
+// set the email
+git config --global user.email "amarnathjnp2002@gmail.com"
+//create new file
+touch .gitignore
+//delete a file
+rm -rf .git
